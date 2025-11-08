@@ -2,7 +2,7 @@ const num = 0;
 
 function factorial(num) {
   
-  //Iteratice way
+  //Iterative way
   // if (num === 0 || num === 1) {
   //   return 1;
   // }else{
